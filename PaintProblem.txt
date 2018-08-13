@@ -1,0 +1,10 @@
+A room will be painted
+The room has no windows, no door
+Only the walls and ceiling will be painted, not the floor.
+
+Write a Python program to:
+Ask the user for the room's width
+Ask the user for the room's height
+Ask the user for the room's length
+Ask the user for the coverage in squared meters, of a liter of paint.
+The program will output how much paint is needed to paint the room. 
